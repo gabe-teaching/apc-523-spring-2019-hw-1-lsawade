@@ -1,8 +1,9 @@
 # Homework Setup
 
 ## Main stuff
-There are two main files, the HW1_hand.pdf and HW1_code.pdf with the 
-hand written and coded parts, respectively.
+There are two main files, the `HW1_hand.pdf` and `HW1_code.pdf` with the 
+hand written and coded parts, respectively. The Matlab code itself is in 
+`exset.m`
 
 ## Secondary Stuff
 All the text files are the tables that are output by the codes. I tried 
